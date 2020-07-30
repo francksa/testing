@@ -1,4 +1,4 @@
-define(['/implicit/common/all/js/pip/piscripts/ep/ep3.js'], function(epExtension){
+define(['https://francksa.github.io/testing/ep3.js'], function(epExtension){
 	return epExtension(
 	{
 			//The prime categories.
