@@ -38,7 +38,7 @@ define(['pipAPI', 'https://francksa.github.io/testing/quiat9.js'], function(APIC
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 
-		base_url : {//Where are your images at?
+		base_url : {//Where are your images at??
 			image : 'https://francksa.github.io/testing/'
 		} 
 	});
