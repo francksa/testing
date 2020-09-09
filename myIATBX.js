@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://francksa.github.io/testing/quiat8.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://francksa.github.io/testing/quiat9.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
@@ -39,7 +39,7 @@ define(['pipAPI', 'https://francksa.github.io/testing/quiat8.js'], function(APIC
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/'
+			image : 'https://francksa.github.io/testing/'
 		} 
 	});
 });
