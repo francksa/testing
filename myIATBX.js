@@ -10,12 +10,12 @@ define(['pipAPI', 'https://francksa.github.io/testing/quiat9.js'], function(APIC
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'coke1.jpg'}, 
-    			{image : 'coke2.jpg'}, 
-    			{image : 'coke3.jpg'}, 
-    			{image : 'coke4.jpg'}, 
-    			{image : 'coke5.jpg'}, 
-    			{image : 'coke6.jpg'}
+    		    {image : 'coke1.jpeg'}, 
+    			{image : 'coke2.jpeg'}, 
+    			{image : 'coke3.jpeg'}, 
+    			{image : 'coke4.jpeg'}, 
+    			{image : 'coke5.jpeg'}, 
+    			{image : 'coke6.jpeg'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -28,12 +28,12 @@ define(['pipAPI', 'https://francksa.github.io/testing/quiat9.js'], function(APIC
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'pepsi1.jpg'}, 
-    			{image : 'pepsi4.jpg'}, 
-    			{image : 'pepsi5.jpg'}, 
-    			{image : 'pepsi2.jpg'}, 
-    			{image : 'pepsi3.jpg'}, 
-    			{image : 'pepsi6.jpg'}			], 
+    		    {image : 'pepsi1.jpeg'}, 
+    			{image : 'pepsi4.jpeg'}, 
+    			{image : 'pepsi5.jpeg'}, 
+    			{image : 'pepsi2.jpeg'}, 
+    			{image : 'pepsi3.jpeg'}, 
+    			{image : 'pepsi6.jpeg'}			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
